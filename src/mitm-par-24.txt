@@ -1,0 +1,53 @@
+Running with n=24, C0=(37096a6c, 3b03564e) and C1=(41928137, df1022e6)
+Fill: 0.7s
+Probe: 1.6s. 16775374 candidate pairs tested
+Solutions found: 1
+Solution found: (3b795f, b9788d) [checked OK] (f(3b795f) = 21f24f; g(b9788d) = 21f24f)
+[1735829392.765441] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497d600 was not returned to mpool ucp_requests
+[1735829392.765452] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497d7c0 was not returned to mpool ucp_requests
+[1735829392.765459] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497d980 was not returned to mpool ucp_requests
+[1735829392.765460] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497db40 was not returned to mpool ucp_requests
+[1735829392.765462] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497dd00 was not returned to mpool ucp_requests
+[1735829392.765465] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497dec0 was not returned to mpool ucp_requests
+[1735829392.765467] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497e080 was not returned to mpool ucp_requests
+[1735829392.765470] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497e240 was not returned to mpool ucp_requests
+[1735829392.765472] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497e400 was not returned to mpool ucp_requests
+[1735829392.765475] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497e780 was not returned to mpool ucp_requests
+[1735829392.765477] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497eb00 was not returned to mpool ucp_requests
+[1735829392.765496] [gros-62:13951:0]          mpool.c:43   UCX  WARN  object 0x560fc497ee80 was not returned to mpool ucp_requests
+[1735829392.769725] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f6680 was not returned to mpool ucp_requests
+[1735829392.769733] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f6840 was not returned to mpool ucp_requests
+[1735829392.769736] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f6a00 was not returned to mpool ucp_requests
+[1735829392.769739] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f6bc0 was not returned to mpool ucp_requests
+[1735829392.769742] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f6d80 was not returned to mpool ucp_requests
+[1735829392.769744] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f6f40 was not returned to mpool ucp_requests
+[1735829392.769747] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f7100 was not returned to mpool ucp_requests
+[1735829392.769749] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f72c0 was not returned to mpool ucp_requests
+[1735829392.769752] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f7480 was not returned to mpool ucp_requests
+[1735829392.769754] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f7800 was not returned to mpool ucp_requests
+[1735829392.769756] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f7b80 was not returned to mpool ucp_requests
+[1735829392.769759] [gros-62:13948:0]          mpool.c:43   UCX  WARN  object 0x55f3027f7f00 was not returned to mpool ucp_requests
+[1735829392.773115] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5f9640 was not returned to mpool ucp_requests
+[1735829392.773124] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5f9800 was not returned to mpool ucp_requests
+[1735829392.773127] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5f99c0 was not returned to mpool ucp_requests
+[1735829392.773130] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5f9b80 was not returned to mpool ucp_requests
+[1735829392.773132] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5f9d40 was not returned to mpool ucp_requests
+[1735829392.773134] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5f9f00 was not returned to mpool ucp_requests
+[1735829392.773137] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5fa0c0 was not returned to mpool ucp_requests
+[1735829392.773140] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5fa280 was not returned to mpool ucp_requests
+[1735829392.773143] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5fa440 was not returned to mpool ucp_requests
+[1735829392.773144] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5fa7c0 was not returned to mpool ucp_requests
+[1735829392.773146] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5fab40 was not returned to mpool ucp_requests
+[1735829392.773148] [gros-62:13950:0]          mpool.c:43   UCX  WARN  object 0x563c5e5faec0 was not returned to mpool ucp_requests
+[1735829392.774272] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09086640 was not returned to mpool ucp_requests
+[1735829392.774282] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09086800 was not returned to mpool ucp_requests
+[1735829392.774285] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f090869c0 was not returned to mpool ucp_requests
+[1735829392.774288] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09086b80 was not returned to mpool ucp_requests
+[1735829392.774290] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09086d40 was not returned to mpool ucp_requests
+[1735829392.774293] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09086f00 was not returned to mpool ucp_requests
+[1735829392.774295] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f090870c0 was not returned to mpool ucp_requests
+[1735829392.774298] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09087280 was not returned to mpool ucp_requests
+[1735829392.774300] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09087440 was not returned to mpool ucp_requests
+[1735829392.774302] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f090877c0 was not returned to mpool ucp_requests
+[1735829392.774303] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09087b40 was not returned to mpool ucp_requests
+[1735829392.774306] [gros-62:13949:0]          mpool.c:43   UCX  WARN  object 0x560f09087ec0 was not returned to mpool ucp_requests
